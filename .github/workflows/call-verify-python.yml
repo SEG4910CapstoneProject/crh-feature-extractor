@@ -1,0 +1,9 @@
+name: Call Verify Feature Extractor workflow
+
+on:
+  push:
+    branches:
+      - main
+jobs:
+  call-verify-web-sraping:
+    uses: SEG4910CapstoneProject/workflows/.github/workflows/verify-python.yml@main
