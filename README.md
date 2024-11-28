@@ -1,6 +1,6 @@
 # feature-extractor
 
-This service extracts data (such as IOCs) algorithmically.
+This service extracts data (such as IOCs) algorithmically and classifies article categories using a rule-based approach.
 
 ## Environment Variables
 
